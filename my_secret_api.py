@@ -1,1 +1,3 @@
-API_SECRET_ASSEMBLYAI ="eecbf107348b4ab7b41d70640279ff99"
+# Enter your api key here
+
+API_SECRET_ASSEMBLYAI =""

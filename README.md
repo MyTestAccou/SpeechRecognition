@@ -5,6 +5,7 @@ python3 -m venv venv (or psrecogenv like in my case)
 pip install -r rerequirements.txt (i dont export some libs but...)
 
 # Record or take some file with speech
+Before start get API key in https://assemblyai.com/
 
 cd to dir when proj exists 
 
